@@ -1,2 +1,6 @@
 # test_repository
-ONLY FOR TESTING
+Hello GitHub!
+This is my first repository.
+Note: ONLY FOR TESTING!
+
+I love 🏀  ☕ , and 🕺
